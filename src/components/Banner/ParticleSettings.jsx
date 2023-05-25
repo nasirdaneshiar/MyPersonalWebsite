@@ -35,7 +35,7 @@ function ParticleSettings(){
                 interactivity: {
                     events: {
                         onClick: {
-                            enable: true,
+                            enable: false,
                             mode: "push",
                         },
                         onHover: {
@@ -49,7 +49,7 @@ function ParticleSettings(){
                             quantity: 4,
                         },
                         repulse: {
-                            distance: 200,
+                            distance: 300,
                             duration: 0.4,
                         },
                     },
@@ -59,8 +59,8 @@ function ParticleSettings(){
                         value: "#ffffff",
                     },
                     links: {
-                        color: "#ffffff",
-                        distance: 200,
+                        color: "#FBDCC4",
+                        distance: 300,
                         enable: true,
                         opacity: 0.5,
                         width: 1,
@@ -82,7 +82,7 @@ function ParticleSettings(){
                             enable: true,
                             area: 800,
                         },
-                        value: 30,
+                        value: 15,
                     },
                     opacity: {
                         value: 0.5,

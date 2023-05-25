@@ -33,10 +33,12 @@ let data = [
   {
       img : "https://drive.google.com/uc?id=1F2F7j92pK2axHrkVcqWW80EDs1nc_Svu",
       disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!",
+      codelink: "https://github.com/nasirdaneshiar/DaneshToken",
+      demolink:"https://gqdon-uyaaa-aaaao-ahq3q-cai.raw.ic0.app/",
       frontdemo:false
   },
   {
-      img : "https://res.cloudinary.com/ghazni/image/upload/v1661323979/Yt-portfolio/ui1_n3uiaz.png",
+      img : "https://drive.google.com/uc?id=1tIe5RdaAqMZiWuQBZbN_hMfUIXSouFd1",
       disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!",
       frontdemo:false
   }
