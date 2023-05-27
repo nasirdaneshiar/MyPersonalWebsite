@@ -407,6 +407,7 @@ body{
 
 
 
+
 .Project{
   background-color: #31112C;
   margin-right: 0px;
@@ -495,6 +496,19 @@ body{
 
 .slick-slider button{
   margin-top: -90px;
+}
+
+@media (max-width: 1440px){
+  .projectsContainer p{
+    font-size: 0.7rem;
+    
+  }
+  
+  .ProjectContainer  .disc{
+    bottom : -16rem;
+  }
+  
+  
 }
 /* #################################################### */
 

@@ -7,7 +7,7 @@ let data = [
   {
       /* img : "../../images/todolist.jpg", */
       img:"https://drive.google.com/uc?id=1AwQT2WH2S8rQWmMWvwysH1aA-S29HdVn",
-      disc : "This is the infinity to do list project , it's mainly part of the Complete Web Development Bootcamp course on udemy by doctor Angela.Yu but I've added login and register and google OAuth for authentication and security and now everyone can register and plan for his/her works.",
+      disc : "This is the infinity to do list project , you can login and register with your google account or with email and password and plan for your works.",
       codelink:"https://github.com/nasirdaneshiar/ToDoList",
       demolink:"https://infinitytodolist.onrender.com/",
       videolink:"https://drive.google.com/uc?id=1hWu0wOjAOvrdcLG1XlRWfYjc6I-GKTO6",
@@ -32,14 +32,15 @@ let data = [
   },
   {
       img : "https://drive.google.com/uc?id=1F2F7j92pK2axHrkVcqWW80EDs1nc_Svu",
-      disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!",
+      disc : "This project is a descentralized App written in Motoko and deployed on ICP blockchain you can get danesh tokens freely and also transfer it to another account ",
       codelink: "https://github.com/nasirdaneshiar/DaneshToken",
       demolink:"https://gqdon-uyaaa-aaaao-ahq3q-cai.raw.ic0.app/",
       frontdemo:false
   },
   {
       img : "https://drive.google.com/uc?id=1tIe5RdaAqMZiWuQBZbN_hMfUIXSouFd1",
-      disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!",
+      disc : "",
+      videolink:"https://drive.google.com/uc?id=1vxv80y8LJvIRysDQ7vdNpKjdi5UME_Sh",
       frontdemo:false
   }
 ];
