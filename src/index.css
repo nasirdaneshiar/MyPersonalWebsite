@@ -442,7 +442,7 @@ body{
   color: #31112C;
   right: 0;
   left: 0;
-  bottom: -15rem;
+  bottom: -18rem;
   text-align: left;
   padding: 0.5rem;
   background-color: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.8));
@@ -516,17 +516,17 @@ body{
 
 @media (max-width:640px){
   .ProjectContainer .disc p{
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     
   }
   .ProjectContainer .disc h1{
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     
   }
   
   .ProjectContainer{
     height: 16rem;
-    width:80%;
+    width:85%;
   }
   
 }
