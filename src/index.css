@@ -499,8 +499,8 @@ body{
 }
 
 @media (max-width: 1440px){
-  .projectsContainer p{
-    font-size: 0.7rem;
+  .ProjectContainer p{
+    font-size: 0.6rem;
     
   }
   
@@ -508,6 +508,23 @@ body{
     bottom : -16rem;
   }
   
+  
+}
+
+@media (max-width:640px){
+  .ProjectContainer p{
+    font-size: 0.4rem;
+    text-align:none;
+    
+  }
+  
+  .ProjectContainer  .disc{
+    bottom : -19rem;
+  }
+  .ProjectContainer{
+    height: 16rem;
+    width:80%;
+  }
   
 }
 /* #################################################### */
