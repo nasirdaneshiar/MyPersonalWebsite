@@ -442,7 +442,7 @@ body{
   color: #31112C;
   right: 0;
   left: 0;
-  bottom: -12rem;
+  bottom: -15rem;
   text-align: left;
   padding: 0.5rem;
   background-color: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.8));
@@ -499,31 +499,34 @@ body{
 }
 
 @media (max-width: 1440px){
-  .ProjectContainer p{
-    font-size: 0.6rem;
+  .ProjectContainer .disc p{
+    font-size: 0.8rem;
+    text-align: none;
+    
+  }
+  .ProjectContainer .disc h1{
+    font-size: 1rem;
     
   }
   
-  .ProjectContainer  .disc{
-    bottom : -16rem;
-  }
+ 
   
   
 }
 
 @media (max-width:640px){
-  .ProjectContainer p{
-    font-size: 0.4rem;
-    text-align:none;
+  .ProjectContainer .disc p{
+    font-size: 0.7rem;
+    
+  }
+  .ProjectContainer .disc h1{
+    font-size: 0.9rem;
     
   }
   
-  .ProjectContainer  .disc{
-    bottom : -19rem;
-  }
   .ProjectContainer{
     height: 16rem;
-    width:80%;
+    width:250px;
   }
   
 }
