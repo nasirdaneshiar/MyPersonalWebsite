@@ -49,7 +49,7 @@ const Footer = () => {
                 </Fade>
             </div>
             <div className='form'>
-                <Slide direction='right'>
+                <Fade>
                     <form action="">
                         <div className="name">
                             <span><CgProfile /></span>
@@ -66,7 +66,7 @@ const Footer = () => {
                         <button>Submit</button>
                         
                     </form>
-                </Slide>
+                </Fade>
             </div>
         </div>
     )

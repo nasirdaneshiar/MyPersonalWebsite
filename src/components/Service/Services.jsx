@@ -4,7 +4,7 @@ import { SiHiveBlockchain } from "react-icons/si"
 import { GiArtificialIntelligence } from "react-icons/gi"
 import { FaLaptopCode } from "react-icons/fa"
 import { CgWebsite } from "react-icons/cg"
-import { Slide } from "react-awesome-reveal";
+import { Slide , Fade} from "react-awesome-reveal";
 
 
 
@@ -30,13 +30,13 @@ function Services(){
                 
                 
                 <div className="col-lg-4 col-md-6">
-                    <Slide direction="up"> 
+                    <Fade> 
                         <Card 
                         Icon={FaLaptopCode}
                         title={"Full stack web development"}
                         disc = {"For frontend I know react, bootstrap and taiwindcss and as a backend developer I work with express, mongodb and mysql, and also I can handle authentication and security issues."}
                         />
-                    </Slide>
+                    </Fade>
                 </div>
                
 

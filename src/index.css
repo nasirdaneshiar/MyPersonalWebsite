@@ -23,6 +23,16 @@ body{
   height:85vh;
 }
 
+@media (max-width: 520px) {
+  .Banner{
+    padding-right: 10%;
+  }
+  .Project{
+    padding-right:10%;
+    
+  }
+}
+
 .Container1{
   display: flex;
   align-items: center;
