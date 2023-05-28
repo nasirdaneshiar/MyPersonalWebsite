@@ -11,7 +11,7 @@ import { Slide } from "react-awesome-reveal";
 
 function ProfComponent(){
     return(
-        <div className="Contain" style={{position: 'relative'}} id="footer">
+        <div className="Contain" style={{position: 'relative'}} id="portfolio">
             <div id="tsparticles" style={{position:"absolute"}}>
                 <ParticleSettings  />
             </div>

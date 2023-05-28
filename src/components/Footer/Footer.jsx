@@ -13,7 +13,7 @@ import { Slide, Zoom , Fade } from 'react-awesome-reveal'
 
 const Footer = () => {
     return(
-        <div className='footerContainer' id="portfolio">
+        <div className='footerContainer' id="footer">
             <div className='footerProfile'>
                 <Slide direction='left'><h1>Profile</h1></Slide>
                 <div className='address'>

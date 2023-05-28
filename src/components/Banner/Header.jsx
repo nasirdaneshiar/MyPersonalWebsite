@@ -19,7 +19,7 @@ function Header(){
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav ms-auto Nav">
                         <li className="nav-item">
-                            <a className="nav-link" href="#footer">Home</a>
+                            <a className="nav-link" href="#portfolio">Home</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="#services">Services</a>
@@ -31,7 +31,7 @@ function Header(){
                             <a className="nav-link" href="#testimonials">Testimonials</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#portfolio">Portfolio</a>
+                            <a className="nav-link" href="#footer">Profile</a>
                         </li>
 
 
