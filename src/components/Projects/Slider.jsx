@@ -39,7 +39,7 @@ let data = [
   },
   {
       img : "https://drive.google.com/uc?id=1tIe5RdaAqMZiWuQBZbN_hMfUIXSouFd1",
-      disc : "",
+      disc : "This is a yield farming dapp I've witten with solidity and react, truffle and ganache test network also has been used.",
       videolink:"https://drive.google.com/uc?id=1vxv80y8LJvIRysDQ7vdNpKjdi5UME_Sh",
       frontdemo:false
   }

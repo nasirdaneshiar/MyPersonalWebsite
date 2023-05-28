@@ -18,6 +18,7 @@ body{
 }
 
 .Banner{
+  
   background: var(--lighter);
   height:85vh;
 }
@@ -347,7 +348,7 @@ body{
 }
 
 .Cards{
-  
+  display: flex;
   margin-top: 4rem;
 }
 
@@ -630,6 +631,9 @@ body{
   }
 }
 
+.footerProfile {
+  flex:1
+}
 
 .footerProfile .address{
   padding: 1rem 0;
@@ -709,8 +713,10 @@ body{
   font-size: 1.3rem;
   font-weight: 700;
   margin-top:2rem;
-
+  color: #fff;
 }
+
+
 
 
 .form{
@@ -725,4 +731,63 @@ body{
   background-color:#7D0633;
   padding: 0.8rem;
   border-radius: 5px;
+}
+
+.form form .name,.email,.message{
+  display: flex;
+  border: 1px solid gray;
+  margin-bottom: 0.5rem;
+}
+
+.form textarea,input{
+  width: 100%;
+  border: none;
+  outline: none;
+  color: #fff;
+  background-color: transparent;
+  padding: 1rem 0.5rem;
+}
+
+.form span{
+  background-color: #F2A07B;
+  width: 3rem;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+
+.form .messageicon {
+  align-items: flex-start;
+  padding-top: 1.1rem;
+}
+
+.form button{
+  height: 2rem;
+  width: 5rem;
+  background-color: #F2A07B;
+  border:none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form button:hover{
+  background-color: #FBDCC4;
+}
+
+@media(max-width:650px){
+  .footerContainer{
+    flex-direction: column;
+    gap:3rem;
+    width: 100%;
+  }
+  .footerProfile{
+    
+  }
+
+  .ArrowUp {
+    position: absolute;
+    right: 3rem;
+    top:16rem;
+  }
+  
 }

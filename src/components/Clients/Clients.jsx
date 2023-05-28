@@ -1,6 +1,7 @@
 import React from "react";
 import Slider from "react-slick";
 import ClientSlider from "./ClientSlider"
+import { Slide} from "react-awesome-reveal"
 
 let clients = [
     /* {
@@ -58,9 +59,12 @@ const Clients = ()=>{
         <ClientSlider items={item} key={i}/>
     ))
     return(
-        <div className="clientContainer">
+        <div className="clientContainer" id="testimonials">
+          <Slide direction="left">
             <span className="green">testimonials</span>
             <h1>what clients say</h1>
+          </Slide>
+            
             <div className="Testimonials">
                 <Slider {...settings}>
                     {clientDisc}

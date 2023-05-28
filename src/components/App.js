@@ -5,7 +5,7 @@ import Projects from "./Projects/Projects";
 import Services from "./Service/Services";
 import Clients from "./Clients/Clients";
 import Footer from "./Footer/Footer";
-
+import { Fade } from 'react-awesome-reveal'
 
 
 
@@ -13,10 +13,14 @@ function App() {
   return (
     <div className="Container">
       <div className="Banner">
-        <Header />
-        <ProfComponent />
+        <Fade>
+          <Header />
+          <ProfComponent />
+        </Fade>
       </div>
-      <Services />
+      
+        <Services />
+      
       <div className="Project">
         <Projects />
       </div>
