@@ -12,7 +12,7 @@ function Services(){
     return(
         <div className="servicContainer" id="services">
             <Slide direction="down">
-            <h4>My <span className="green">serveces</span></h4>
+            <h4>My <span className="green">services</span></h4>
             <h1>What I do</h1>
             </Slide>
             <div className="Cards row">

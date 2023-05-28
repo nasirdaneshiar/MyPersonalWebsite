@@ -19,7 +19,7 @@ const Footer = () => {
                 <div className='address'>
                     <Slide direction='left'>
                         <h1>Address:</h1>
-                        <p>Iran, Tehran, Matahari street</p>
+                        <p>Iran, Tehran, Motahari street</p>
                     </Slide>
                     
                 </div>
