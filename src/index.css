@@ -25,10 +25,10 @@ body{
 
 @media (max-width: 520px) {
   .Banner{
-    padding-right: 10%;
+    
   }
   .Project{
-    padding-right:10%;
+    
     
   }
 }
@@ -410,7 +410,7 @@ body{
 }
 
 .projectsContainer p{
-  width: 28rem;
+  
   margin: 0 auto;
   padding: 1rem 0;
   font-size: 0.9rem;
@@ -539,7 +539,21 @@ body{
     height: 16rem;
     width:85%;
   }
+
+  .projectsContainer{
+    width:88%;
+  }
   
+}
+
+@media (max-width:520px){
+  .projectsContainer h1{
+    text-align: center;
+  }
+
+  .projectsContainer p{
+    
+  }
 }
 /* #################################################### */
 
@@ -788,7 +802,7 @@ body{
   .footerContainer{
     flex-direction: column;
     gap:3rem;
-    width: 100%;
+    width: 90%;
   }
   .footerProfile{
     
