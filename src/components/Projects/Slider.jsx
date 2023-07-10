@@ -43,7 +43,14 @@ let data = [
       codelink : "https://github.com/nasirdaneshiar/yieldFarimingDapp",
       videolink:"https://drive.google.com/uc?id=1vxv80y8LJvIRysDQ7vdNpKjdi5UME_Sh",
       frontdemo:false
-  }
+  },
+  {
+    img : "https://drive.google.com/uc?id=1zwBWNOxc4Bl3VliIFGf8iQzxWHmliGj5",
+    disc : "This is a Facial Landmark detection app I've witten with Tensorflow.js and react.",
+    codelink : "https://github.com/nasirdaneshiar/FacialLandmarkDetection",
+    videolink:"",
+    frontdemo:false
+}
 ];
 var settings = {
     className:"center",

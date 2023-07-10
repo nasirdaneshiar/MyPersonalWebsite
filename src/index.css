@@ -20,7 +20,7 @@ body{
 .Banner{
   
   background: var(--lighter);
-  height:85vh;
+  height:100vh;
 }
 
 @media (max-width: 520px) {
