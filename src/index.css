@@ -150,7 +150,7 @@ body{
 }
 
 .Text h1{
-  font-size: 2.6rem;
+  font-size: 2.2rem;
   font-family: 'Secular One', sans-serif;
   letter-spacing: 2px;
 }
@@ -167,7 +167,7 @@ body{
  */
 .Text p{
   font-weight: 300;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 .myProf{
   /* position: relative; */
@@ -264,7 +264,7 @@ body{
 
 .Profile img{
   max-width: 200;
-  height:95vh;
+  height:80vh;
   transition: transform 400ms ease-in-out;
   position: relative;
   z-index: 1;
