@@ -484,11 +484,15 @@ body{
 
 .ProjectContainer:hover img{
   transform: scale(1.3);
-  opacity: 0.4;
+  
 }
+
+
+
 
 .ProjectContainer:hover .disc{
   bottom: 0;
+  background-color: #FBDCC4;
 }
 
 
