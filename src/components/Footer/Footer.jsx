@@ -38,8 +38,8 @@ const Footer = () => {
                 <div className="profiles">
                     <h1>Check my profiles</h1>
                     <div className='icons'>
-                        <Zoom><span><a href='https://github.com/nasirdaneshiar'><AiFillGithub/></a></span></Zoom>
-                        <Zoom><span><a href='https://www.linkedin.com/in/nasir-daneshiar-71013268/'><AiFillLinkedin/></a></span></Zoom>
+                        <Zoom><span><a href='https://github.com/nasirdaneshiar'><AiFillGithub className='footerIcon'/></a></span></Zoom>
+                        <Zoom><span><a href='https://www.linkedin.com/in/nasir-daneshiar-71013268/'><AiFillLinkedin className='footerIcon'/></a></span></Zoom>
                         {/* <Zoom><span><a href='#'><AiFillInstagram/></a></span></Zoom> */}
                         {/* <Zoom><span><a href='#'><BsFacebook/></a></span></Zoom> */}
                     </div>
