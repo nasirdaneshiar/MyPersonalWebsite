@@ -150,7 +150,7 @@ body{
 }
 
 .Text h1{
-  font-size: 2.2rem;
+  font-size: 2.1rem;
   font-family: 'Secular One', sans-serif;
   letter-spacing: 2px;
 }
@@ -167,7 +167,7 @@ body{
  */
 .Text p{
   font-weight: 300;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
 }
 .myProf{
   /* position: relative; */
@@ -229,7 +229,7 @@ body{
 }
 
 .Social P{
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
 .Social .social-icons{
@@ -239,8 +239,8 @@ body{
 }
 
 .Social .social-icons span{
-  width:3.5rem;
-  height:2.9rem;
+  width:3rem;
+  height:2.3rem;
   clip-path: polygon(25% 0%, 75% 0%, 100% 50%,75% 100%,25% 100%,0% 50%);
   background-color: #F2A07B;
   position: relative;
@@ -264,7 +264,7 @@ body{
 
 .Profile img{
   max-width: 200;
-  height:80vh;
+  height:74vh;
   transition: transform 400ms ease-in-out;
   position: relative;
   z-index: 1;
