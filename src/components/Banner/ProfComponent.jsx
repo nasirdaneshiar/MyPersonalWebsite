@@ -30,7 +30,7 @@ function ProfComponent(){
                         
                     </div>
                     <p>I'm very interested in the blockchain and web(3), AI, and the Internet of robotic things.</p>
-                    <button className="btn btn-lg green2">Let's talk</button>
+                    <button className="btn btn-lg green2"><a href="https://wa.me/+989132295093">Let's talk</a> </button>
                     <div className="Social">
                         <p>Check out my</p>
                         <div className="social-icons">

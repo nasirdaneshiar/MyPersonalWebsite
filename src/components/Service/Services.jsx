@@ -22,7 +22,7 @@ function Services(){
                         <Card 
                         Icon={SiHiveBlockchain}
                         title={"Blockchain and DAPP development"}
-                        disc = {"I know solidity and truffle framework as well as Motoko for ICP blockchain and I am learing more and more in this field."}
+                        disc = {"Solidity, truffle ,hardhat, foundry for ethereum blockchain development as well as Motoko for ICP blockchain."}
                         />
                     </Slide>
                 </div> 

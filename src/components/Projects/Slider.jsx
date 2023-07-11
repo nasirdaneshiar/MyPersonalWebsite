@@ -55,7 +55,7 @@ let data = [
 var settings = {
     className:"center",
     centerMode: true,
-    dots: false,
+    dots: TextTrackCue,
     infinite: true,
     speed: 500,
     slidesToShow: 3,
