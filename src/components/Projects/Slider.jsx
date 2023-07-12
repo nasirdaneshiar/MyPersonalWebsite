@@ -9,14 +9,17 @@ let data = [
     disc : "This is a Facial Landmark detection app I've witten with Tensorflow.js and react.",
     codelink : "https://github.com/nasirdaneshiar/FacialLandmarkDetection",
     videolink:"",
-    frontdemo:false
+    frontdemo:false,
+    demolink:""
   },
   {
     img : "https://drive.google.com/uc?id=1tIe5RdaAqMZiWuQBZbN_hMfUIXSouFd1",
     disc : "This is a yield farming dapp I've witten with solidity and react, truffle and ganache test network also has been used.",
     codelink : "https://github.com/nasirdaneshiar/yieldFarimingDapp",
     videolink:"https://drive.google.com/uc?id=1vxv80y8LJvIRysDQ7vdNpKjdi5UME_Sh",
-    frontdemo:false
+    frontdemo:false,
+    demolink:""
+
   },
   {
     img : "https://drive.google.com/uc?id=1F2F7j92pK2axHrkVcqWW80EDs1nc_Svu",
